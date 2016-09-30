@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/send_msg_layout"
+    android:layout_alignParentBottom="true"
+    android:weightSum="4"
+    android:background="@drawable/border_top"
+    android:orientation="horizontal">
+
+    <EditText android:id="@+id/message"
+        android:layout_width="0dp"
+        android:background="@null"
+        android:hint="Enter message"
+        android:paddingLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="16dp"
+        android:lines="3"
+        android:inputType="textMultiLine"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        />
+
+    <Button android:id="@+id/send"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@null"
+        android:text="SEND"
+        android:textSize="16dp"
+        android:textColor="@color/colorMainTheme" />
+
+
+</LinearLayout>

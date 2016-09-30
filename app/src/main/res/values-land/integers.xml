@@ -1,0 +1,7 @@
+<resources>
+    <item name="grid_rows" type="integer">5</item>
+    <item name="title_size_tier3" type="integer">30</item>
+    <item name="text_size_tier3" type="integer">18</item>
+
+    <item name="text_chat_size_tableta" type="integer">20</item>
+</resources>

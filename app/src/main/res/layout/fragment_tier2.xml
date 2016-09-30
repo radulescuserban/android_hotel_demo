@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.serbantheodor.android_hotel.Tier2Fragment">
+
+    <GridView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/grid_fragments_tier2"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"
+        android:numColumns="@integer/grid_rows"
+        android:gravity="center"
+        android:stretchMode="columnWidth">
+    </GridView>
+
+
+</RelativeLayout>

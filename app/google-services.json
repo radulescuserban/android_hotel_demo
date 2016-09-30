@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "873541964032",
+    "firebase_url": "https://androidhotel-1236.firebaseio.com",
+    "project_id": "androidhotel-1236",
+    "storage_bucket": "androidhotel-1236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873541964032:android:623ee91fae639122",
+        "android_client_info": {
+          "package_name": "com.example.serbantheodor.android_hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873541964032-uh3bl5ir4oqoe5t3vjk3p3cpb3el7olj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.serbantheodor.android_hotel",
+            "certificate_hash": "D311F84BDC1B51E3FEE812E1FE15B8AD6C1A87FE"
+          }
+        },
+        {
+          "client_id": "873541964032-td53bpften6ffgt17hpunrg436n5hrp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl_OwLVlIU_jENND1P-ulCKC7B9suZqfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873541964032-td53bpften6ffgt17hpunrg436n5hrp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

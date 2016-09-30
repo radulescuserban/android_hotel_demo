@@ -1,0 +1,5 @@
+<resources>
+    <item name="grid_rows" type="integer">3</item>
+    <item name="title_size_tier3" type="integer">30</item>
+    <item name="text_size_tier3" type="integer">18</item>
+</resources>

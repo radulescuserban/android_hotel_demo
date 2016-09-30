@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android Hotel Demo 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_message">Hello</string>
+    <string name="chat_title">Chat with the Reception</string>
+    <string name="chat_message_reception">Valea Verde Reception</string>
+
+    <string name="device_check">http://www.inoxid.ro/clients/android_hotel/device_check.php</string>
+    <string name="populate_menu">http://www.inoxid.ro/clients/android_hotel/get_menu_items.php</string>
+    <string name="send_message_to_server">http://www.inoxid.ro/clients/android_hotel/send_message_to_server.php</string>
+    <string name="get_all_messages">http://www.inoxid.ro/clients/android_hotel/get_all_messages.php</string>
+    <string name="get_content">http://www.inoxid.ro/clients/android_hotel/get_content.php</string>
+    <string name="register_device">http://www.inoxid.ro/clients/android_hotel/register_device.php</string>
+
+    <string name="error_message">Load failed! No internet connection!</string>
+    <string name="error_message_unregistered_device">Load failed! The device is not registered!</string>
+
+    <string name="not_registered_message">This device is not registered in the database and has no room! To register and assign a room please press the "Register device" button.</string>
+    <string name="not_registered_title">Current device is not registered!</string>
+    <string name="registration_request_sent">Registration request sent!</string>
+</resources>
